@@ -1,4 +1,4 @@
-# Receta de sopa chilena
+# Receta de sopa paraguaya
 ### **Ingredientes** (para una fuente grande):
 - 300g. de harina de maíz (la amarilla fina, no polenta)
 - 1/2 lt. de leche
@@ -7,7 +7,6 @@
 - 400g. de queso que se derrita (cremoso, mozzarella, etc.)
 - 1 cdita. de orégano
 - Sal, pimienta, aceite
-- asdasfasfasda
 
 ### Pasos a seguir:
 1. Cortar la cebolla en tiras finas y rehogarlas en un poco de aceite. Que no lleguen a ponerse transparentes del todo, sino desaparecerán dentro de la sopa.
@@ -18,4 +17,3 @@
 6. Colocar la preparación en una fuente apta para horno apenas untada con aceite.
 7. Llevar a horno moderado unos 30 minutos o hasta que veas la sopa paraguaya dorada por arriba.
 8. Dejar entibiar y cortar en cuadrados.
-9. //REVISAR SI HAY MAS PASOS
